@@ -13,7 +13,12 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       home : Scaffold(
         Container(
-          
+          hight:120,
+          child: column(
+            children[
+              
+            ]
+          )
         )
       )
     );
